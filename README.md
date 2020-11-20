@@ -15,6 +15,6 @@ possible(i,j,n):
         Then it checks for the same number n in the same 3x3 sub block in which i,j exists. 
        
 void solve()
-        This is a recursive backtracking function that finds an empty slot , then finds a possible entry for that slot then fills the slot with this possible value and calls               itself to solve the rest of the grid.If it doesnt find a solution then it tries again by filling a different possible entry to the empty slot.
+        This is a recursive backtracking function that finds an empty slot , then finds a possible entry for that slot then fills the slot with this possible value and calls itself to solve the rest of the grid.If it doesnt find a solution then it tries again by filling a different possible entry to the empty slot.
         If it doesnt find any solution for any possible entry to a slot then the answer doesnt exist or the initial sudoku grid is incorrect.
         It does not return anything.
