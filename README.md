@@ -2,8 +2,8 @@
 A python3 program that solves a sudoku using backtracking
 
 grid[][]
-        It is list of lists of dimensions 9x9 that stores the initial values of the unsolved sudoku grid.
-        Empty spaces are filled with a 0.
+	It is list of lists of dimensions 9x9 that stores the initial values of the unsolved sudoku grid.
+	Empty spaces are filled with a 0.
         
 print_grid()
         This function prints the sudoku grid in a 9x9 matrix form.
