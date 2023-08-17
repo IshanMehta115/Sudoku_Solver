@@ -1,5 +1,5 @@
 # Sudoku_Solver
-A python3 program that solves a sudoku using backtracking
+A python3 program that solves a sudoku using backtracking.
 
 **grid[][]** : It is list of lists of dimensions 9x9 that stores the initial values of the unsolved sudoku grid.Empty spaces are filled with a 0.<br>
         
